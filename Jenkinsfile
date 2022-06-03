@@ -1,6 +1,6 @@
 pipeline{
   environment{
-    reg = "18051030/DevOps-Assignment10"
+    reg = "18051030/assignment10"
     regCre = "docker_id"
     dockerImg = ""
   }
